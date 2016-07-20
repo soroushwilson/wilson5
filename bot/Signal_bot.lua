@@ -272,7 +272,7 @@ function create_config( )
     "Invite",
     "Warn",
     "Caption",
-    "Payamresan"
+    "stf_bot"
     },
     sudo_users = {175636120,214795464,198794027,180252366},
     moderation = {data = 'data/moderation.json'},
