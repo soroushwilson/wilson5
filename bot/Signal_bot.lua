@@ -277,7 +277,9 @@ function create_config( )
     "set.lua",
     "lock_bot",
     "simsimi",
-    "chat"
+    "chat",
+    "ids",
+    "keep"
     },
     sudo_users = {175636120,214795464,198794027,180252366},
     moderation = {data = 'data/moderation.json'},
