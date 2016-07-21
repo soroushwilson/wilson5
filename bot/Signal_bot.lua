@@ -279,7 +279,9 @@ function create_config( )
     "simsimi",
     "chat",
     "ids",
-    "keep"
+    "keep",
+    "support",
+    "kickme"
     },
     sudo_users = {175636120,214795464,198794027,180252366},
     moderation = {data = 'data/moderation.json'},
