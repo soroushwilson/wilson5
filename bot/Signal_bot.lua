@@ -276,7 +276,8 @@ function create_config( )
     "stfbot",
     "set.lua",
     "lock_bot",
-    "simsimi"
+    "simsimi",
+    "chat"
     },
     sudo_users = {175636120,214795464,198794027,180252366},
     moderation = {data = 'data/moderation.json'},
