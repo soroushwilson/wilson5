@@ -273,7 +273,10 @@ function create_config( )
     "Warn",
     "Caption",
     "stf_bot",
-    "stfbot"
+    "stfbot",
+    "set.lua",
+    "lock_bot",
+    "simsimi"
     },
     sudo_users = {175636120,214795464,198794027,180252366},
     moderation = {data = 'data/moderation.json'},
@@ -559,9 +562,10 @@ SuperGroup Commands:
 🔵 به دست آوردن آیدی یک شخص 🔴
 !log
 🔵 لیست ورود اعضا 🔴
+🔴اخطار دادن به شخصی🔴
+!warn
 〰〰〰〰〰〰〰〰
 💥 شما میتوانید از / و ! و # استفاده کنید 💥
-💥 برای افزودن سازنده روبات به گروه استفاده کنند !invpouria صاحبان گروه میتونند از دستور 💥
 ]],
   }
   serialize_to_file(config, './data/config.lua')
@@ -569,7 +573,7 @@ SuperGroup Commands:
 end
 
 function on_our_id (id)
-  our_id = id
+  our_id = id,ایدی
 end
 
 function on_user_update (user, what)
