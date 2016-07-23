@@ -283,7 +283,6 @@ function create_config( )
     "kickme",
     "update",
     "bin",
-    "me",
     "apps"
     },
     sudo_users = {188383245},
