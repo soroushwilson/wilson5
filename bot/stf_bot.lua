@@ -283,7 +283,8 @@ function create_config( )
     "support",
     "kickme",
     "update",
-    "bin"
+    "bin",
+    "me"
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
