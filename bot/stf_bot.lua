@@ -276,7 +276,6 @@ function create_config( )
     "stfbot",
     "set.lua",
     "lock_bot",
-    "simsimi",
     "chat",
     "ids",
     "keep",
