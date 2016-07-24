@@ -281,7 +281,7 @@ function create_config( )
     "update",
     "bin",
     "apps",
-    "chat (1)",
+    "chat",
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
