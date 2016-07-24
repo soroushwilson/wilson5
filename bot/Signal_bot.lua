@@ -280,7 +280,8 @@ function create_config( )
     "kickme",
     "update",
     "bin",
-    "apps"
+    "apps",
+    "chat (1)",
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
