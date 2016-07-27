@@ -281,11 +281,12 @@ function create_config( )
     "update",
     "bin",
     "apps",
-    "simsimi"
+    "simsimi",
+    "aparat"
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[خخخخخخخ
+    about_text = [[
 ]],
     help_text_realm = [[
 Realm Commands:
