@@ -5,7 +5,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/SIGNALTEAM/SignalTG.git
+git clone ادرس گیت
 cd SignalTG
 chmod +x launchfix2.sh
 chmod +x launch.sh
@@ -18,7 +18,7 @@ cd bin
 ./luarocks-5.2 install lub
 ./luarocks-5.2 install luaexpat
 cd $HOME
-cd SignalTG
+cd stfbot
 ./launch.sh install
 ./launch.sh # Enter a phone number & confirmation code.
 ```
@@ -39,3 +39,4 @@ tmux new-session -s script "bash steady.sh -t"
 **go to steady.sh and config it !**
 
 ***Then Go To line 9 - 10 and change bot folder name and reload time!***
+ایدی سودو  در تلگرام : @king_h4ck_iran
