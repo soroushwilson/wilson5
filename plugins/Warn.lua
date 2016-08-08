@@ -174,7 +174,7 @@ local function run(msg, matches)
   else return 'از نام کاربری یا ریپلی کردن پیام کاربر برای اخطار دادن استفاده کنید' end
  --endif--
  end
- if matches[1]:lower() == 'اخطار' and matches[2] then -- /warn <@username>
+ if matches[1]:lower() == 'warn' and matches[2] then -- /warn <@username>
    if string.match(user, '^%d+$') then
       return 'از نام کاربری یا ریپلی کردن پیام کاربر برای اخطار دادن استفاده کنید'
     elseif string.match(user, '^@.+$') then
@@ -204,7 +204,7 @@ return {
     "^[!/]([Ww][Aa][Rr][Nn])$",
     "^[!/]([Ww][Aa][Rr][Nn]) (.*)$",
     "^[!/]([Uu][Nn][Ww][Aa][Rr][Nn])$",
-    "^[!/](اخطار) (.*)$"
+    "^[!/]([Uu][Nn][Ww][Aa][Rr][Nn]) (.*)$"
   }, 
   run = run 
 }
