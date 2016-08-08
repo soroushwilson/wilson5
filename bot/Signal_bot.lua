@@ -283,7 +283,8 @@ function create_config( )
     "apps",
     "simsimi",
     "aparat",
-    "chatby"
+    "chatby",
+    "expire"
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
