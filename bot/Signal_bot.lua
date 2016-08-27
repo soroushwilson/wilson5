@@ -285,7 +285,6 @@ function create_config( )
     "aparat",
     "chatby",
     "expire"
-    "save"
     },
     sudo_users = {188383245},
     moderation = {data = 'data/moderation.json'},
