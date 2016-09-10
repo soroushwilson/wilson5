@@ -46,5 +46,6 @@ tmux new-session -s script "bash steady.sh -t"
 _Opend By Knight-team_
 
 # Special thanks to:
-[Mohammadwh](https://telegram.me/Sudo_Knight_Guard)
-[尺乇乙ﾑ K™](https://telegram.me/P_u_k_e_r_a_m)
+.[Mohammadwh](https://telegram.me/Sudo_Knight_Guard)
+------------
+.[尺乇乙ﾑ K™](https://telegram.me/P_u_k_e_r_a_m)
