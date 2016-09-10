@@ -1,3 +1,5 @@
+                                              ..In The Name Of Allah..
+_Knight-Team_
 ```sh
 # Install dependencies.
 # Tested on Ubuntu 14.04. For other OSs, check out https://github.com/yagop/telegram-bot/wiki/Installation
@@ -24,6 +26,8 @@ cd stfbot
 ```
 
 **دقـــــــــــيق مثل همین عمل کنید**
+_Opend By Knight-Team_
+_thanks to:_
 
 ```
 # Auto Launch Bot With :
@@ -39,4 +43,8 @@ tmux new-session -s script "bash steady.sh -t"
 **go to steady.sh and config it !**
 
 ***Then Go To line 9 - 10 and change bot folder name and reload time!***
-ایدی سودو  در تلگرام : @king_h4ck_iran
+_Opend By Knight-team_
+
+# Special thanks to:
+[Mohammadwh](https://telegram.me/Sudo_Knight_Guard)
+[尺乇乙ﾑ K™](https://telegram.me/P_u_k_e_r_a_m)
