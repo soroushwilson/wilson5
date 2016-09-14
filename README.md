@@ -7,8 +7,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/Knight-Team/Signal -b supergroups
-cd Signal
+git clone https://github.com/soroushwilson/wilson5 -b supergroups
+cd wilson5
 chmod +x launchfix2.sh
 chmod +x launch.sh
 chmod +x autolaunch.sh
